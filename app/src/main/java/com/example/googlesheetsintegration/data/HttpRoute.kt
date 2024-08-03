@@ -1,0 +1,5 @@
+package com.example.googlesheetsintegration.data
+
+object HttpRoute {
+    const val URL = "https://script.googleusercontent.com/macros/echo?user_content_key=64RudOyrMMgIWwRE7EsvJaTXG963NAKRm9iPQsYJawlAVP-dUqZWDpGy7ePdav8FMV-nX8ukBHCM-xCQjnCurbAR-2qMceTRm5_BxDlH2jW0nuo2oDemN9CCS2h10ox_1xSncGQajx_ryfhECjZEnLNwD2lPvTO80DJwI3FDYIc3Vu7msT85Dvmlt6KKKDH-py5z7xZJKIXv4KS7N0kXu6MWf8tmgkh-t2JFOpLEEsVYrBhZzR8FiQ&lib=MNIaWe8NjqGBTFy0PI8dZ5WPPWC3Jxm2I"
+}
